@@ -1,0 +1,9 @@
+C:\NewOryxGit\vs\shared\OryxDomainServices\bin\Debug\netcoreapp2.0\OryxDomainServices.deps.json
+C:\NewOryxGit\vs\shared\OryxDomainServices\bin\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\NewOryxGit\vs\shared\OryxDomainServices\bin\Debug\netcoreapp2.0\OryxDomainServices.pdb
+C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.csprojResolveAssemblyReference.cache
+C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.csproj.CoreCompileInputs.cache
+C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.AssemblyInfoInputs.cache
+C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.AssemblyInfo.cs
+C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.pdb

@@ -1,0 +1,13 @@
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\ProvastSAP.Security.deps.json
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\ProvastSAP.Security.dll
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\OryxDomainServices.pdb
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\obj\Debug\netcoreapp2.0\ProvastSAP.Security.csprojResolveAssemblyReference.cache
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\obj\Debug\netcoreapp2.0\ProvastSAP.Security.csproj.CoreCompileInputs.cache
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\obj\Debug\netcoreapp2.0\ProvastSAP.Security.AssemblyInfoInputs.cache
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\obj\Debug\netcoreapp2.0\ProvastSAP.Security.AssemblyInfo.cs
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\ProvastSAP.Security.pdb
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\obj\Debug\netcoreapp2.0\ProvastSAP.Security.dll
+C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Security\obj\Debug\netcoreapp2.0\ProvastSAP.Security.pdb
