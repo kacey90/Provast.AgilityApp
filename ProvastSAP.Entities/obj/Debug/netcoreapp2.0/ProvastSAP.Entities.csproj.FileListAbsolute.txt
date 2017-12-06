@@ -9,3 +9,14 @@ C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Entities\obj\Debug\netcoreapp2.0
 C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.AssemblyInfo.cs
 C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.dll
 C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\bin\Debug\netcoreapp2.0\ProvastSAP.Entities.deps.json
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\bin\Debug\netcoreapp2.0\ProvastSAP.Entities.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\bin\Debug\netcoreapp2.0\ProvastSAP.Entities.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\bin\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\bin\Debug\netcoreapp2.0\OryxDomainServices.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Entities\obj\Debug\netcoreapp2.0\ProvastSAP.Entities.pdb

@@ -7,3 +7,11 @@ C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainSer
 C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.AssemblyInfo.cs
 C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.dll
 C:\NewOryxGit\vs\shared\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\bin\Debug\netcoreapp2.0\OryxDomainServices.deps.json
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\bin\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\bin\Debug\netcoreapp2.0\OryxDomainServices.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\OryxDomainServices\obj\Debug\netcoreapp2.0\OryxDomainServices.pdb

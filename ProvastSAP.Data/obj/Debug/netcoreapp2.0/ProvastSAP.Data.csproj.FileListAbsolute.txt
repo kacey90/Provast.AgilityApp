@@ -15,3 +15,18 @@ C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Data\bin\Debug\netcoreapp2.0\Pro
 C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
 C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.dll
 C:\My Solutions\Provast.SAPtoAgility\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Data.deps.json
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Data.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Data.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\OryxDomainServices.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Entities.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Security.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\OryxDomainServices.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Entities.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\bin\Debug\netcoreapp2.0\ProvastSAP.Security.pdb
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.dll
+C:\Users\Administrator\Documents\GitHub\Provast.AgilityApp\ProvastSAP.Data\obj\Debug\netcoreapp2.0\ProvastSAP.Data.pdb
